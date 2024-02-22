@@ -29,7 +29,7 @@ setup(
     # There are some restrictions on what makes a valid project name
     # specification here:
     # https://packaging.python.org/specifications/core-metadata/#name
-    name="helloworld-facepro",  # Required
+    name="helloworldfacepro",  # Required
     # Versions should comply with PEP 440:
     # https://www.python.org/dev/peps/pep-0440/
     #
@@ -111,7 +111,7 @@ setup(
     #
     #   py_modules=["my_module"],
     #
-    packages=['helloworld-facepro'], #find_packages(where="helloworld"),  # Required
+    packages=['helloworldfacepro'], #find_packages(where="helloworld"),  # Required
     # Specify which Python versions you support. In contrast to the
     # 'Programming Language' classifiers above, 'pip install' will check this
     # and refuse to install the project if the version does not match. See
